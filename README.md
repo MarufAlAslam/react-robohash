@@ -4,16 +4,16 @@ React Robohash is a simple and fun random robot image generator website built wi
 
 ## Technologies Used
 
-* React
-* Tailwind
-* Flowbite
-* Robohash API
+- React
+- Tailwind
+- Flowbite
+- Robohash API
 
 ## Demo
 
 Check out the demo video to see React Robohash in action:
 
-[![React Robohash Demo Video](./video/robohash.mp4)](./video/robohash.mp4)
+[![React Robohash Demo GIF](./gif/robohash.gif)](./gif/robohash.gif)
 
 ## Installation
 
